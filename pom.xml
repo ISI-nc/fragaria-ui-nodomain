@@ -76,7 +76,7 @@
 	</repositories>
 
 	<properties>
-		<tapestry-release-version>5.4-alpha-24</tapestry-release-version>
+		<tapestry-release-version>5.4-alpha-29</tapestry-release-version>
 		<easymock-release-version>3.0</easymock-release-version>
 	</properties>
 </project>
